@@ -1,0 +1,5 @@
+*.tar
+data/
+__pycache__/
+img/
+README.md
